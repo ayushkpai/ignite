@@ -107,3 +107,9 @@
     ```
     brew install openjdk
     ```
+
+- fzf
+
+    ```
+    brew install fzf
+    ```
