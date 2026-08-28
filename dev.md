@@ -102,3 +102,8 @@
     brew install mysql
     ```
 
+- Java
+
+    ```
+    brew install openjdk
+    ```
