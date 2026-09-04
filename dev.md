@@ -113,3 +113,10 @@
     ```
     brew install fzf
     ```
+
+- elixir
+
+    ```
+    brew install erlang elixir
+    ```
+
