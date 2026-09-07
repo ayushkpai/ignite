@@ -82,6 +82,7 @@
 
     ```
     brew install node
+    brew install nvm
     ```
 
 - Yarn
