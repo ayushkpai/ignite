@@ -114,3 +114,10 @@
     ```
     brew install fzf
     ```
+
+- go
+
+    ```
+    brew install go
+    ```
+
