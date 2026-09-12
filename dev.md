@@ -121,3 +121,9 @@
     brew install go
     ```
 
+- Opencode
+
+    ```
+    brew install anomalyco/tap/opencode
+    ```
+
