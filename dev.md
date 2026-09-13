@@ -133,3 +133,9 @@
     brew install --cask ghostty
     ```
 
+- Visual Studio Code
+
+    ```
+    brew install --cask visual-studio-code
+    ```
+
