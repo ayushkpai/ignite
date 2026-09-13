@@ -139,3 +139,8 @@
     brew install --cask visual-studio-code
     ```
 
+- Dbeaver
+
+    ```
+    brew install --cask dbeaver-community
+    ```
