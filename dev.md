@@ -127,3 +127,9 @@
     brew install anomalyco/tap/opencode
     ```
 
+- Ghostty
+
+    ```
+    brew install --cask ghostty
+    ```
+
