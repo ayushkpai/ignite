@@ -17,3 +17,10 @@
     ```
     brew install --cask zoom
     ```
+
+- Obsidian
+
+    ```
+    brew install --cask obsidian
+    ```
+
