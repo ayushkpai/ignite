@@ -6,6 +6,12 @@
     brew install --cask firefox
     ```
 
+- Google chrome
+
+    ```
+    brew install --cask google-chrome
+    ```
+
 - VLC
 
     ```
