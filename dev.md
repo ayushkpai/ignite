@@ -144,3 +144,9 @@
     ```
     brew install --cask dbeaver-community
     ```
+
+- Arduino IDE
+
+    ```
+    brew install --cask arduino-ide
+    ```
