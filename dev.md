@@ -150,3 +150,9 @@
     ```
     brew install --cask arduino-ide
     ```
+
+- Pandoc
+
+    ```
+    brew install pandoc 
+    ```
